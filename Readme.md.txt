@@ -6,4 +6,5 @@
 
 
 
-##feature 1.2 added
+##feature 1.2 added 
+#fixed bug
